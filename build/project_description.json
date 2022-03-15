@@ -1,7 +1,7 @@
 {
     "project_name":       "uart_events",
     "project_path":       "C:/Users/Connor/esp/ansync-project",
-    "build_dir":          "C:/Users/Connor/esp/ansync-project/build",
+    "build_dir":          "c:/Users/Connor/esp/ansync-project/build",
     "config_file":        "C:/Users/Connor/esp/ansync-project/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "uart_events.elf",

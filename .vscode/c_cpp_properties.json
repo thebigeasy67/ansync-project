@@ -17,10 +17,10 @@
             "cppStandard": "c++17",
             "browse": {
                 "path": [
-                    "C:/Users/Connor/esp/esp-idf/components/**",
-                    "C:/Users/Connor/esp/esp-idf/components/tinyusb/tinyusb/hw/bsp/esp32s2/components/led_strip/include/**"
+                    "${env:IDF_PATH}/components/**"
                 ]
-            }
+            },
+            "configurationProvider": "ms-vscode.cmake-tools"
         }
     ],
     "version": 4
