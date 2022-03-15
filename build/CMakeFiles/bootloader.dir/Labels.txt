@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Connor/esp/ansync-project/build/CMakeFiles/bootloader
+C:/Users/Connor/esp/ansync-project/build/CMakeFiles/bootloader.rule
+C:/Users/Connor/esp/ansync-project/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Connor/esp/ansync-project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
